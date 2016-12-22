@@ -10,6 +10,11 @@ A.open peoject  B.blog  C.
   https://github.com/XXApple/AndroidLibs（合集）
   Android 开源项目源码解析
   https://github.com/android-cn/android-open-project-analysis
+Android快速开发框架，MVP架构，丰富的功能、简单的实现、详细的注释、规范的风格。OKHttp、UIL图片加载、ZXing二维码、沉浸状态栏、下载安装、自动缓存以及各种Base、Demo、UI、Util直接用。全新的手势，侧滑返回、全局右滑返回都OUT啦！BaseHttpListActivity，几行代码搞定http请求列表 加载和缓存；BaseView，自定义View竟然如此简单；万能的Entry<K, V>，两个变量的Model/JavaBean再也不用写了；100多个常用style，一行搞定View属性，一键统一配置UI...[详情请看图文介绍]
+  https://github.com/TommyLemon/Android-ZBLibrary
+
+搜集整理工作中遇到开源APP和自定义控件资源
+https://github.com/linmomo/Android_Open_App_View(合集)
   
 1.Epoxy是一个用于在RecyclerView中构建复杂屏幕的Android库
   https://github.com/airbnb/epoxy#hiding-models  
@@ -117,6 +122,72 @@ A.open peoject  B.blog  C.
 36.基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。
   https://github.com/hehonghui/Colorful  
   
+37.android产品研发过程中常用的技术，技巧，实践等
+  https://github.com/GJson/androidProject  
+
+38.购物车动画；下雨
+  https://github.com/GJson/AndroidTools 
+ 
+39.android水波纹录音按钮RecorderButton，从真实项目里面抽取出来的
+https://github.com/huannan/RecorderButton
+
+40.超炫动画交互，值得一看
+https://github.com/saulmm/Curved-Fab-Reveal-Example  
+
+41.个人简历
+https://github.com/Yalantis/Euclid
+
+42.edittext动态输入，超级炫酷
+https://github.com/xujinyang/BiuEditText
+
+43.基于 EventBus实现跨进程通讯，支撑多个app通讯(牛叉)
+https://github.com/eleme/HermesEventBus
+
+44.一个Android SpannableStringBuilder 快速构建工具,可以让你用链式表达式，快速写出想要的效果
+https://github.com/xujinyang/AndroidSpan
+  
+45.收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
+https://github.com/xujinyang/AndroidDevTools
+
+46.Android自定义switch控件，加入动画效果(类似于togglebutton)
+https://github.com/008chen/SwitchView
+
+47.程序员简历模板
+https://github.com/008chen/ResumeSample
+
+48.Android App开发库，包括常用的算法，字符串处理，常用控件，数据库操作等，App开发的宝库
+https://github.com/longluo/Android_Dev_Lib
+
+49.Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
+https://github.com/lzyzsd/sweet-alert-dialog
+
+50.水波按进度上升，带环形进度条
+https://github.com/lzyzsd/water-wave-progress
+
+51.ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
+https://github.com/lzyzsd/ansj_seg
+
+52.这是Android上的一个线性自动换行布局控件（可以实现搜索瀑布流）
+https://github.com/LineChen/AutoNewLineLayout
+  
+githup 
+
+1.大精-wing(githubwing) 仓库内容不错
+  https://github.com/githubwing
+2.Saul Molinero
+https://github.com/saulmm?tab=repositories
+3.xujinyang
+  https://github.com/xujinyang
+4.代码家
+  https://github.com/daimajia
+5.ljtyzhr
+https://github.com/ljtyzhr
+6.hi大头鬼hi
+https://github.com/lzyzsd
+
+
+
+
   B
 1.开源项目： FlycoTabLayout 
   http://blog.csdn.net/analyzesystem/article/details/51426473  
